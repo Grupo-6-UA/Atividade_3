@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.box_pedro{
+    border-radius: 14px;
+    margin: 100px;
+    width: 336px;
+    height: 340px;
+    top: 75px;
+    left: 135px;
+    background-color: rgb(254, 254, 254);
+    box-shadow: 0.5px 26px 49px 5px  #DDD;   
+}
+.estrela{
+    position: absolute;
+    left: 140px;
+    top: 130px;
+}
+.h4_pedro{ 
+    position: absolute;
+    width: 97px;
+    height: 20px;
+    left: 170px;
+    top: 121px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+.pessoas_pedro{
+    position: absolute;
+    left: 120px;
+    top: 174px;
+}
+.pessoas2_pedro{
+    position: absolute;
+    left: 138px;
+    top: 174px;
+}
+.pessoas3_pedro{
+    position: absolute;
+    left: 156px;
+    top: 174px;
+}
+.membros_pedro{
+    position: absolute;
+    left: 205px;
+    top: 184px;
+    color: #217BF4;
+    font-family: 'Inter';
+}
+.textomembros_pedro{
+    position: absolute;
+    left: 250px;
+    top: 184px;
+    font-family: 'Inter';
+}
+.textobox1_pedro{
+    position: absolute;
+    left: 135px;
+    top: 241px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8C8C8C;
+}
+.frasebox1_pedro{
+    position: absolute;
+    left: 135px;
+    top: 359px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: #217BF4;
+}
+.setabox1_pedro{
+    position: absolute;
+    left: 295px;
+    top: 357px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.box2_pedro{
+    position: absolute;
+    border-radius: 14px;
+    width: 336px;
+    height: 340px;
+    top: 101px;
+    left: 495px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border: 1px solid #B9B9B9;
+}
+.trofeu_pedro{
+    position: absolute;
+    left: 38px;
+    top: 24px;
+}
+.awards_pedro{
+    position: absolute;
+
+    left: 70px;
+    top: 29.5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+.git_pedro{
+    
+    position: absolute;
+    left: 27px;
+    top: 73px;
+}
+
+.best_pedro{
+    position: absolute;
+    left: 69px;
+    top: 85px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #5D5B70;
+}
+.ano_pedro{
+    position: absolute;
+    left: 128px;
+    top: 85px;font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #217BF4;
+}
+.restfrase_pedro{
+    position: absolute;
+    left: 170px;
+    top: 85px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #5D5B70;
+}
+.text_pedro{
+    position: absolute;
+    left:40px;
+    top: 139px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8C8C8C;
+}
+.ultfrase_pedro{
+    position: absolute;
+    width: 106px;
+    height: 16px;
+    left: 40px;
+    top: 257px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: #4A4A56;
+}
+.seta2_pedro{
+    position: absolute;
+    left: 150px;
+    top: 255px;
+}
+
+
+
+
+
+
+.titulo_pedro{
+    position: absolute;
+    width: 149px;
+    height: 18px;
+    left: 924px;
+    top: 84px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #217BF4;
+}
+.subtitulo_pedro{
+    position: absolute;
+    width: 381px;
+    height: 96px;
+    left: 924px;
+    top: 112px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
+.texto_pedro{
+    position: absolute;
+    width: 365px;
+    height: 84px;
+    left: 924px;
+    top: 226px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #656464;
+}
+.box3_pedro{
+    position: absolute;
+    width: 192px;
+    height: 58px;
+    left: 924px;
+    top: 360px;
+    background: #217BF4;
+    box-shadow: 0px 10px 22px rgba(33, 123, 244, 0.26);
+    border-radius: 14px;
+    color: #FFFFFF;
+}
+.frasebox3_pedro{
+    position: absolute;
+    left: 40px;
+    top: 17px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+.flecha_pedro{
+    position: absolute;
+    left: 135px;
+    top: 16.9px;
+}

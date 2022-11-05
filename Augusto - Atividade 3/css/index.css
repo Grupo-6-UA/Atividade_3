@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+#fundogu{
+
+    background-image: url(/base.png);
+    background-repeat: no-repeat;
+}
+
+#escrita1gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 8px;
+    color: #217BF4;
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+
+#escrita2gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    color:black;
+    position: relative;
+    text-align: center;
+    top: -10px
+
+}
+
+#escrita3gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    color:rgba(61, 60, 60, 0.753);
+    text-align: center;
+    position: relative;
+    top: -40px;
+}
+
+#escrita4gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -280px;
+    left: 290px;
+
+}
+#escrita5gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -275px;
+    left: 290px;
+}
+
+#escrita6gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -682px;
+    left: 828px;
+
+}
+
+#escrita7gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -682px;
+    left: 828px;
+}
+
+#escrita8gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -855px;
+    left: 290px;
+
+}
+
+#escrita9gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -850px;
+    left: 290px;
+}
+
+#escrita10gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -1255px;
+    left: 828px;
+
+}
+
+#escrita11gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -1255px;
+    left: 828px;
+}
+
+#escrita12gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -1450px;
+    left: 290px;
+}
+
+#escrita13gu {
+
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -1450px;
+    left: 290px;
+
+}
+
+#escrita14gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -1853px;
+    left: 830px;
+}
+
+#escrita15gu {
+
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -1850px;
+    left: 830px;
+    
+}
+
+#quadradogu{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 160px;
+    top: -10px;
+
+}
+
+#quadradogu2{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 700px;
+    top: -410px;
+
+}
+
+#quadradogu3{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 160px;
+    top: -590px;
+
+}
+
+#quadradogu4{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 700px;
+    top: -990px;
+
+}
+
+#quadradogu5{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 160px;
+    top: -1185px;
+
+}
+
+#quadradogu6{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 700px;
+    top: -1585px;
+
+}
+
+#posimembersgu {
+
+    position: relative;
+    left: 170px;
+    top: -165px;
+}
+
+#posigroupsgu {
+
+    position: relative;
+    left: 710px;
+    top: -570px;
+}
+
+#posiforumgu {
+
+    position: relative;
+    left: 170px;
+    top: -740px;
+}
+
+#posimodulgu {
+
+    position: relative;
+    left: 710px;
+    top: -1140px;
+}
+
+#posibuildergu {
+
+    position: relative;
+    left: 170px;
+    top: -1340px;
+}
+
+#posilistgu {
+
+    position: relative;
+    left: 710px;
+    top: -1740px;
+}

@@ -1,0 +1,1275 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600&display=swap');
+
+body
+{
+    background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
+    margin: 30px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+#logo1
+{
+    position: relative;
+    top: 35px;
+}
+
+
+#linha
+{
+    position: absolute;
+    width: 1360px;
+    height: 0px;
+    left: 0px;
+    top: 131px;
+
+    border: 1px solid #217BF4;
+    color: #217BF4;
+    opacity: 0.1;
+
+
+}
+
+#logonome_gab
+{   
+    margin: 35px;
+    position: relative;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    color: #2B2B39;  
+    right: 160px;
+    bottom: 2px;
+}
+
+header
+{
+    background-color: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
+    display: flex;  
+}
+
+a
+{   
+    position: relative;
+    display: inline-flex;
+    color: #656464;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 32px;
+    text-decoration: none;
+    bottom: 5px;
+    right: 72px;
+    
+}
+
+nav
+{
+    display: inline;
+    text-align: justify;
+}
+
+
+h1
+{   
+    display: flex;
+    position: absolute;
+    color: #0A093D;
+    font-size: 56px;
+    font-weight: 700;
+    font-family: 'Inter';
+    justify-content: space-around;
+    align-items: center;
+    height: 132px;
+    width: 515px;
+    top: 211px;
+    left: 135px;
+}
+
+#paragrafo_gab
+{
+    position: absolute;
+    color: #656464;
+    width: 491px;
+    height: 56px;
+    left: 150px;
+    top: 400px;
+
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 156%;
+}
+
+
+
+#imagem1_gab
+{
+    position: absolute;
+    width: 585.52px;
+    height: 501.47px;
+    left: 719px;
+    top: 142px;
+}
+
+#home_gab
+{
+    color: #2B2B39;
+    font-weight: 600;
+}
+
+#button
+{
+   display:inline; /* Por padrão a tag "a" vem com INLINE, por esse motivo é feita essa alteração para INLINE-BLOCK para possibilitar a alteração de medidas */
+   position: relative;
+   background-color: #217BF4; /* Cor da caixa */
+   height: 50px; /* Altura da caixa */
+   line-height: 50px; /* Altura do texto, geralmente ele fica com a mesma medida da altura para ficarem alinhados */
+   box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34); /* Sombra da caixa */
+   color: #FFFFFF; /* Cor da letra */
+   font-family: 'Inter', sans-serif; 
+   font-weight: 600; /* Grossura da fonte */
+   font-size: 12px; 
+   padding-left: 44px; /* Aumenta para a ESQUERDA a largura da caixa */
+   padding-right: 43px; /* Aumenta para a DIREITA a largura da caixa */
+   padding-top: 18px; /* Aumenta para BAIXO a largura da caixa */
+   padding-bottom: 18px; /* Aumenta para CIMA a largura da caixa */
+   width: 123px; /* LARGURA DA CAIXA */
+   border-radius: 14px; /* Define o raio da caixa, deixando ela circular */
+   text-align: center; /* Alinha o texto no centro da caixa */
+   left: 400px;
+}
+
+
+#texto1_gab
+{
+    font-family: 'Inter', sans-serif;
+    font-size: 56px;
+    font-weight: 700px;
+    color: #0A093D;
+}
+
+
+#botao1_gab
+{   
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Inter';
+
+    background-color: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 14px;
+    width: 162px;
+    height: 62px;
+    left: 135px;
+    top: 510px;
+    position: absolute;
+    border:none;
+}
+
+#botao2_gab
+{
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 500;
+    color: #217BF4;
+
+    background-color:#FFFFFF;
+    width: 167px;
+    height: 62px;
+    left: 315px;
+    top: 510px;
+    border-radius: 14px;
+    border: 1px solid #217BF4;
+}
+
+#botao3_gab
+{
+   position: relative;
+   color: #217BF4;
+   font-size: 12px;
+   font-weight: 500;  
+   font-family: 'Inter';  
+   width: 177px;
+  height: 36px;
+  left: 135px; 
+  top: 85px;
+  background: #d3dded;
+  border-radius: 8px;
+  border: none;
+}
+
+/* PARTE DO PEDRO */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+.sobreus_pedro
+{   
+    position: absolute;
+    height: 700px;
+
+    top: 700px;
+    background: #FFFFFF;
+}
+
+
+
+.title_pedro{
+    color: #217BF4;
+    position: absolute;
+    width: 142px;
+    height: 18px;
+    left: 135px;
+    top: 150px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    
+    font-family: 'Inter', sans-serif;
+}
+.subtitle_pedro{
+    position: absolute;
+    width: 406px;
+    height: 96px;
+    left: 105px;
+    top: 180px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    font-family: 'Inter', sans-serif;
+}
+.text_pedro{
+    position: absolute;
+    left:130px;
+    top: 290px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8C8C8C;
+}
+.options_pedro{
+    position: absolute;
+    width: 63px;
+    height: 18px;
+    left: 165px;
+    top: 400px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
+.options2_pedro{
+    position: absolute;
+    width: 88px;
+    height: 18px;
+    left: 165px;
+    top: 435px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+
+}
+.options3_pedro{
+    position: absolute;
+    width: 50px;
+    height: 18px;
+    left: 165px;
+    top: 470px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
+.icon_pedro{
+    position: absolute;
+    color: #217BF4;
+    width: 18px;
+    height: 18px;
+    left: 135px;
+    top: 515px;
+}
+.icon2_pedro{
+    color: #217BF4;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 135px;
+    top: 445px;
+}
+.icon3_pedro{
+    color: #217BF4;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 135px;
+    top: 482px;
+}
+.imagem_pedro{
+    position: absolute;
+    left: 650px;
+    top: 150px;
+}
+.imagem2_pedro{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+.imagem3_pedro{
+    position: absolute;
+    left: 1000px;
+    top: 370px;
+}
+img{
+    border-radius: 18px;
+}
+
+
+
+
+/* PARTE 2 PEDRO */
+
+.avaliacoes_pedro
+{
+    position: absolute;
+    height: 2000px;
+    top: 1300px;
+}
+
+
+
+
+
+.box_pedro{
+    border-radius: 14px;
+    margin: 100px;
+    width: 336px;
+    height: 340px;
+    top: 75px;
+    left: 135px;
+    background-color: rgb(254, 254, 254);
+    box-shadow: 0.5px 26px 49px 5px  #DDD;   
+}
+.estrela{
+    position: absolute;
+    left: 140px;
+    top: 130px;
+}
+.h4_pedro{ 
+    position: absolute;
+    width: 97px;
+    height: 20px;
+    left: 170px;
+    top: 105px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+.pessoas_pedro{
+    position: absolute;
+    left: 120px;
+    top: 174px;
+}
+.pessoas2_pedro{
+    position: absolute;
+    left: 138px;
+    top: 174px;
+}
+.pessoas3_pedro{
+    position: absolute;
+    left: 156px;
+    top: 174px;
+}
+.membros_pedro{
+    position: absolute;
+    left: 205px;
+    top: 184px;
+    color: #217BF4;
+    font-family: 'Inter';
+}
+.textomembros_pedro{
+    position: absolute;
+    left: 260px;
+    top: 184px;
+    font-family: 'Inter';
+}
+.textobox1_pedro{
+    position: absolute;
+    left: 135px;
+    top: 241px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #8C8C8C;
+}
+.frasebox1_pedro{
+    position: absolute;
+    left: 135px;
+    top: 359px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: #217BF4;
+}
+.setabox1_pedro{
+    position: absolute;
+    left: 300px;
+    top: 377px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.box2_pedro{
+    position: absolute;
+    border-radius: 14px;
+    width: 336px;
+    height: 320px;
+    top: 101px;
+    left: 495px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    border: 1px solid #B9B9B9;
+}
+.trofeu_pedro{
+    position: absolute;
+    left: 38px;
+    top: 24px;
+}
+.awards_pedro{
+    position: absolute;
+
+    left: 70px;
+    top: 29.5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+.git_pedro{
+    
+    position: absolute;
+    left: 27px;
+    top: 73px;
+}
+
+.best_pedro{
+    position: absolute;
+    left: 69px;
+    top: 68px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #5D5B70;
+}
+.ano_pedro{
+    position: absolute;
+    left: 128px;
+    top: 85px;font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #217BF4;
+}
+.restfrase_pedro{
+    position: absolute;
+    left: 170px;
+    top: 85px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #5D5B70;
+}
+
+.text_pedroj{
+    position: absolute;
+    width: 406px;
+    height: 84px;
+    left: 40px;
+    top: 120px;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: 'Inter', sans-serif;
+    color: #656464;
+}
+
+.ultfrase_pedro{
+    position: absolute;
+    width: 106px;
+    height: 16px;
+    left: 40px;
+    top: 257px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    color: #4A4A56;
+}
+.seta2_pedro{
+    position: absolute;
+    left: 160px;
+    top: 257px;
+}
+
+
+
+
+
+
+.titulo_pedro{
+    position: absolute;
+    width: 149px;
+    height: 18px;
+    left: 924px;
+    top: 84px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #217BF4;
+}
+.subtitulo_pedro{
+    position: absolute;
+    width: 381px;
+    height: 96px;
+    left: 907px;
+    top: 112px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
+.texto_pedro{
+    position: absolute;
+    width: 365px;
+    height: 84px;
+    left: 924px;
+    top: 226px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #656464;
+}
+.box3_pedro{
+    position: absolute;
+    width: 192px;
+    height: 58px;
+    left: 924px;
+    top: 360px;
+    background: #217BF4;
+    box-shadow: 0px 10px 22px rgba(33, 123, 244, 0.26);
+    border-radius: 14px;
+    color: #FFFFFF;
+}
+.frasebox3_pedro{
+    position: absolute;
+    left: 40px;
+    top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+.flecha_pedro{
+    position: absolute;
+    left: 135px;
+    top: 23px;
+}
+
+
+
+/* PARTE DO AUGUSTO */
+
+
+.augusto_comunidade
+{
+    position: absolute;
+    top: 1900px;
+}
+
+
+
+
+#fundogu{
+
+    background-image: url(/base.png);
+    background-repeat: no-repeat;
+}
+
+#communidade_guss
+{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #217BF4;
+    position: relative;
+    text-align: center;
+    top: 30px;
+    left: 410px;
+}
+
+
+
+
+#escrita2gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    color:#0A093D;
+    position: relative;
+    text-align: center;
+    top: -50px;
+    left: 410px;
+
+}
+
+#escrita3gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color:rgba(61, 60, 60, 0.753);
+    text-align: center;
+    position: relative;
+    top: -60px;
+    left: 410px;
+}
+
+#escrita4gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -280px;
+    left: 290px;
+
+}
+#escrita5gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -275px;
+    left: 290px;
+}
+
+#escrita6gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -682px;
+    left: 828px;
+
+}
+
+#escrita7gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -682px;
+    left: 828px;
+}
+
+#escrita8gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -855px;
+    left: 290px;
+
+}
+
+#escrita9gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -850px;
+    left: 290px;
+}
+
+#escrita10gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -1255px;
+    left: 828px;
+
+}
+
+#escrita11gu{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -1255px;
+    left: 828px;
+}
+
+#escrita12gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -1450px;
+    left: 290px;
+}
+
+#escrita13gu {
+
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -1450px;
+    left: 290px;
+
+}
+
+#escrita14gu{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    color:black;
+    position: relative;
+    top: -1853px;
+    left: 830px;
+}
+
+#escrita15gu {
+
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color:rgba(61, 60, 60, 0.753);
+    position: relative;
+    top: -1850px;
+    left: 830px;
+    
+}
+
+#quadradogu{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 160px;
+    top: -10px;
+
+}
+
+#quadradogu2{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 700px;
+    top: -410px;
+
+}
+
+#quadradogu3{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 160px;
+    top: -590px;
+
+}
+
+#quadradogu4{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 700px;
+    top: -990px;
+
+}
+
+#quadradogu5{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 160px;
+    top: -1185px;
+
+}
+
+#quadradogu6{
+
+    width: 480px;
+    height: 180px;
+    background: white;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 15px;
+    position: relative;
+    left: 700px;
+    top: -1585px;
+
+}
+
+#posimembersgu {
+
+    position: relative;
+    left: 170px;
+    top: -165px;
+}
+
+#posigroupsgu {
+
+    position: relative;
+    left: 710px;
+    top: -570px;
+}
+
+#posiforumgu {
+
+    position: relative;
+    left: 170px;
+    top: -740px;
+}
+
+#posimodulgu {
+
+    position: relative;
+    left: 710px;
+    top: -1140px;
+}
+
+#posibuildergu {
+
+    position: relative;
+    left: 170px;
+    top: -1340px;
+}
+
+#posilistgu {
+
+    position: relative;
+    left: 710px;
+    top: -1740px;
+}
+
+
+/*PARTE 2 GABRIEL */
+
+.membros_gab
+{
+    position: absolute;
+    top: 3200px;
+}
+
+
+#h1_gab
+{
+    margin-top: -350px;
+    margin-left: 280px;
+    font-size: 18px;
+    color: #217BF4 ;
+    font-weight: 400;
+    font-family: 'Inter';
+    text-align: center;
+    
+}
+
+
+#h2_gab
+{
+    color: #0A093D;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    margin-top: -55px;
+    margin-left: 450px;
+}
+
+#p_gab
+{
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Inter';
+    color: #656464;
+    margin-left: 450px;
+    margin-top: -10px;
+}
+
+#botaofundo_gab
+{
+    background: #217BF4;
+    opacity: 0.06;
+    border-radius: 14px;
+    width: 474px;
+    height: 72px;
+    margin-left: 440px;
+    margin-top: 40px;
+}
+
+#botaoactive_gab
+{   
+    position: absolute;
+    color: #FFFF;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    font-family: 'Inter';
+
+
+    width: 150px;
+    height: 56px;
+
+    top: 110px; 
+    background: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(0, 72, 168, 0.34);
+    border-radius: 14px;
+    border: none;
+    left: 750px;
+}
+
+#botaopopular_gab
+{   
+    position: relative;
+    border: none;
+    background: none;
+    left: 630px;
+    top: -45px;
+
+    color:#2F2C4A;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Inter';
+}
+
+#botaonewest_gab
+{   
+    position: relative;
+    border: none;
+    background: none;
+
+    color:#2F2C4A;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Inter';
+    top: -45px;
+    left: 400px;
+
+}
+
+
+/* Membro 1 */
+#membro1_gab
+{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 55px;
+
+    width: 270px;
+    height: 316px;
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+
+#membro12_gab
+{
+    position: absolute;
+    left: 54px;
+    top: 35px;
+}
+
+#fahim_gab
+{
+    color: #2F2C4A;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    margin-left: 55px;
+    margin-top: 230px;
+}
+
+#fahimtwitter_gab
+{
+    color: #656464;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter';
+    margin-left: 50px;
+}
+
+/* Membro 2 */
+
+#membro2_gab
+{
+    position: absolute;
+    margin-left: 390px;
+    margin-top: 56px;
+
+
+    width: 270px;
+    height: 316px;
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+
+#membro21
+{
+    position: absolute;
+    left: 54px;
+    top: 30px;
+}
+
+
+#kazi_gab
+{
+    color: #2F2C4A;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 225px;
+    margin-left: 65px;
+    
+}
+
+#kazitwitter_gab
+{
+     color: #656464;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter';
+    margin-left: 35px;
+}
+
+#membro3_gab
+{
+    position: absolute;
+    margin-left: 710px;
+    margin-top: 56px; 
+
+    width: 270px;
+    height: 316px;
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+
+#membro31
+{
+    position: absolute;
+    left: 54px;
+    top: 30px;
+}
+
+
+
+#masterero_gab
+{
+    color: #2F2C4A;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 223px;
+    margin-left: 60px;
+}
+
+
+#mastererotwitter_gab
+{
+    color: #656464;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter';
+    margin-left: 40px;
+}
+
+
+#membro4_gab
+{
+    position: absolute;
+    margin-left: 1030px;
+    margin-top: 56px;
+
+    width: 270px;
+    height: 316px;
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+
+#membro41
+{
+    position: absolute;
+    left: 55px;
+    top: 30px;
+}
+
+
+#alia_gab
+{   
+    color: #2F2C4A;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 220px; 
+    margin-left: 75px;
+}
+
+#aliatwitter_gab
+{
+    color: #656464;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Inter';
+    margin-left: 38px;
+}
+
+
+
+
+/* PARTE 2 AUGUSTO */
+
+.augusto_publicidade
+{
+    position: absolute;
+    top: 700px;
+    background-color: #E5F0FD;
+    height: 560px;
+    left: 10px;
+    padding-right: 600px;
+
+}
+
+#fundogu2 {
+
+    position: absolute;
+    width: 1440px;
+    height: 560px;
+    left: 0px;
+    top: 0px;
+
+    background-color: #E5F0FD;
+
+}
+
+
+#gu1escrita{
+
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: #217BF4;
+    position: relative;
+    left: 10%;
+    top: 20%;
+}
+
+#gu2escrita {
+
+    position: relative;
+    left: 10%;
+    top: 13%;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 36px;
+    color: #0A093D;
+
+}
+
+#gu3escrita {
+
+    position: relative;
+    left: 10.5%;
+    top: 8%;
+    font-family:'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #656464;
+}
+
+#posiapplegu {
+
+    position:relative;
+    left: 9%;
+    top: -4%;
+    filter: drop-shadow(0px 0px 22px rgba(178, 188, 208, 0.21));
+    
+}
+
+#posiandgu {
+
+    position:relative;
+    left: 35%;
+    top: 10%;
+    filter: drop-shadow(0px 0px 22px rgba(178, 188, 208, 0.21));
+}
+
+#posicelgu {
+
+    position: relative;
+    left:70%;
+    top:-95%;
+    
+}
